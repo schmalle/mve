@@ -1,3 +1,9 @@
+#Speedcompare native MaxMind vs Elasticsearch
+
+## Background
+
+For DTAGs honeypot backend, we wanted to check, how native Maxmind API versus Elasticearch (both locally) perform.
+
 **Requirements**
 
 Maxmind GeoIP libraries at
